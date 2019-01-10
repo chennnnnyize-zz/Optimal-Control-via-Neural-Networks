@@ -4,4 +4,4 @@ This is the code repository for ICLR 2019 Paper Optimal Control Via Neural Netwo
 
 Authors: Yize Chen*, Yuanyuan Shi* and Baosen Zhang, University of Washington
 
-Contact: yizechen@uw.edu
+Contact: yizechen@uw.edu, yyshi@uw.edu
